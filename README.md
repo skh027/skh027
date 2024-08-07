@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @skh027
-- 👀 I’m interested in astronomy, data science, and genealagogy
+- 👀 I’m interested in astronomy, data science, and genealogy 
 - 🌱 I’m currently completing a Master of Data Science
 - 💞️ I’m looking to collaborate on - stay tuned
 - 📫 How to reach me - by email
